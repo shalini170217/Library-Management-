@@ -1,0 +1,2 @@
+This is a full-fledged Library Management System developed using the MERN stack, which includes MongoDB, Express.js, React.js, and Node.js. The system is designed to efficiently handle core library operations . The backend, built with Node.js and Express.js, ensures secure and scalable server-side operations, while the frontend, developed using React.js, provides a dynamic and user-friendly interface. MongoDB serves as the database, offering flexible and efficient data storage for books, users, and transactions.
+
